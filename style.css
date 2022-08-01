@@ -62,7 +62,7 @@
 }
 
 .text{
-    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    box-shadow: 0 2px 20px 0 rgb(0 0 0 / 16%), 0 2px 30px 0 rgb(0 0 0 / 12%);
     font-size: 20px;
     width: 57%;
     text-align: left;
@@ -71,7 +71,7 @@
 }
 
 .text p{
-    padding: 7px;
+    padding: 20px;
 }
 
 .section{
@@ -139,7 +139,7 @@
 
 .footer i:hover{
     background-color:white ;
-    color: rgb(88, 108, 117);
+    color: rgb(88, 108, 117, 0.70);
 }
 
 .submenu{
